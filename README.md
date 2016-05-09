@@ -1,4 +1,4 @@
-# Data Types (String, Int)
+# Data Types - String, Int
 
 
 
