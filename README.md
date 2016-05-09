@@ -91,7 +91,7 @@ let numberOfCountriesInAfrica = 54
 * Challenge them to create something like the following (which will reintroduce string interpolation):
 
 ```swift
-let sixthPlanet: String = "Saturn"
+let sixthPlanet = "Saturn"
 let numberOfMoonsOfSaturn = 62
 print("There are \(numberOfMoonsOfSaturn) orbiting \(sixthPlanet).")
 // prints "There are 62 moons orbiting Saturn."
