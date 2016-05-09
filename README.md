@@ -39,7 +39,7 @@ let movieTitle: String = "Wall-E"
 ## Outline / Notes
 
 *  Build the narrative around the various planets (maybe?).
-* Familiarize the student (again) with what it is they know asking them to create a constant in the playground file where the value is "Earth".
+* Familiarize the student (again) with what it is they know asking them to create a constant named thirdPlanet in the playground file where the value is "Earth".
 * What if we wanted create a variable named ninthPlanet and not give it a value. This type of question should make the student think a little bit before we go into the answer. Then show them this:
 
 ```swift
