@@ -10,7 +10,7 @@
 let fourthPlanet: String
 ```
 
-* Structure the proper sentence (which will help them not only understand what it is that's going on, but help them Google things and begin to develop the proper habit of not making the assumption that they get it when they really don't) in describting the above code.
+* Structure the proper sentence (which will help them not only understand what it is that's going on, but help them Google things and begin to develop the proper habit of not making the assumption that they get it when they really don't) in describing the above code.
 
 ```swift
 // We declared a variable named fourthPlanet that is of type String
