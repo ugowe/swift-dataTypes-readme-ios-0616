@@ -43,8 +43,9 @@ let movieTitle: String = "Wall-E"
 * What if we wanted create a variable named ninthPlanet and not give it a value. This type of question should make the student think a little bit before we go into the answer. Then show them this:
 
 ```swift
-let ninthPlanet: String
+var ninthPlanet: String
 ```
+* Here is where we can teach them about Data types in general and show them the most common types they will see in Swift.
 
 * Then assign a value to ninthPlanet. Maybe include a gif here of Neil deGrasse Tyson, considering we're about to assign the value "Pluto" to ninthPlanet. Pluto is no longer a planet.
 
