@@ -45,7 +45,7 @@ let movieTitle: String = "Wall-E"
 ```swift
 var ninthPlanet: String
 ```
-* Here is where we can teach them about Data types in general and show them the most common types they will see in Swift.
+* Here is where we can teach them about Data types in general and show them the most common types they will see in Swift. For now, this is a good segue to define what a **String** is. Give a clear definition of what a **String** is, can it contain spaces, etc etc.
 
 * Then assign a value to ninthPlanet. Maybe include a gif here of Neil deGrasse Tyson, considering we're about to assign the value "Pluto" to ninthPlanet. Pluto is no longer a planet.
 
@@ -53,18 +53,8 @@ var ninthPlanet: String
 ninthPlanet = "Pluto"
 ```
 
-* In the playground file, the student should have already written the following code - let thirdPlanet = "Earth". Have them do the following. Hold the option key on their keyboard and while hovering over the thirdPlanet variable, a question mark should appear. Tap on your mouse. You should see a small box appear, in that box you should see 'Declaration - let thirdPlanet: String'. Tell the student how this is been occurring behind the scenes for them all along in the prior readme's. 
+* In the playground file, the student should have already written the following code - let thirdPlanet = "Earth". Have them do the following. Hold the option key on their keyboard and while hovering over the thirdPlanet variable, a question mark should appear. Tap on your mouse. You should see a small box appear, in that box you should see 'Declaration - let thirdPlanet: String'. Tell the student how this is been occurring behind the scenes for them all along in the prior readme's. Include a screenshot explaining in detail the breakdown of what the playground/xcode file shows that states... HEY this is a variable named x of this type (in this case the type being **String**).
 
-
-
-* The student at this point should be asking... well which one should I use going forward and why? 
-
-```swift
-// per apples documentation
-/* 
-It is rare that you need to write type annotations in practice. If you provide an initial value for a constant or variable at the point that it is defined, Swift can almost always infer the type to be used for that constant or variable.
-*/
-```
 
 * Writing this all in one line as follows:
 
@@ -82,13 +72,22 @@ let seventhPlanet = "Uranus"
 // seventhPlanet is a constant of type ______
 ```
 
+* The student at this point should be asking... well which one should I use going forward and why? 
+
+```swift
+// per apples documentation
+/* 
+It is rare that you need to write type annotations in practice. If you provide an initial value for a constant or variable at the point that it is defined, Swift can almost always infer the type to be used for that constant or variable.
+*/
+```
+
 * Now that we understand what a String is, how can represent numbers? Have the student type the following in a playground file:
 
 ```swift
 let numberOfCountriesInAfrica = 54
 ```
 
-* After doing so, have them option click the variable to see what it's type is. This will be the first time they see the type Int so we might find it necessary to define it here.
+* After doing so, have them option click the variable to see what it's type is. This will be the first time they see the type Int so we might find it necessary to define it here. Explain that they now have worked with their second type.
 * Challenge them to create something like the following (which will reintroduce string interpolation):
 
 ```swift
