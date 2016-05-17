@@ -1,5 +1,7 @@
 # Data Types - String, Int
 
+![Albert Einstein](http://breakingblue.org/wp-content/uploads/2016/04/einstein.jpg)
+> Life is like riding a bicycle. To keep your balance, you must keep moving.
 
 
 ## Learning Objectives - The student should be able to..
