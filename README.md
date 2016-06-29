@@ -1,29 +1,14 @@
 # Data Types: Strings and Ints
 
 ![Albert Einstein](http://breakingblue.org/wp-content/uploads/2016/04/einstein.jpg)
-> Life is like riding a bicycle. To keep your balance, you must keep moving.
+> Life is like riding a bicycle. To keep your balance, you must keep moving. ~[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
-## Learning Objectives - The student should be able to..
+## Learning Objectives 
 
 * Create strings using type annotation as such:
-
-```swift
-let fourthPlanet: String
-```
-
 * Explain what the above code does in their own words:
-
-```swift
-// We declared a variable named fourthPlanet that is of type String
-```
 * Explain the difference between type inference and type annotations. 
 * Create a variable of type `Int`
-
-## What the student can do at this point 
-
-* Create variables and constants
-* Use the `print` function to print strings to console
-* Can distinguish where it's appropriate to use `let` over `var`
 
 ## Strings
 
