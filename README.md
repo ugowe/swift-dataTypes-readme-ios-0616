@@ -1,6 +1,6 @@
 # Data Types: Strings and Ints
 
-![Albert Einstein](http://breakingblue.org/wp-content/uploads/2016/04/einstein.jpg)
+![Albert Einstein](http://i.imgur.com/Pwh4QrR.jpg?1)
 > Life is like riding a bicycle. To keep your balance, you must keep moving. ~[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ## Learning Objectives 
