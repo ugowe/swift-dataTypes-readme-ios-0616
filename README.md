@@ -44,13 +44,13 @@ You can now give `ninthPlanet` a value. Set it to the string "Pluto" by adding t
 ninthPlanet = "Pluto"
 ```
 
-![Neil DeGrasse Tyson may not like this](.images/neil.jpg)
+![Neil DeGrasse Tyson may not like this](http://i.imgur.com/kLIl2mi.jpg)
 
 You risk a rebuke by Neil DeGrasse Tyson for doing this, but Swift has no problem letting you assign the string "Pluto" to `ninthPlanet`, because it's a totally valid string, and while Swift cares a lot about types, it doesn't care one bit about astronomy.
 
 Let's take a closer look at the constant `thirdPlanet` that you already created in your playground file. Playgrounds have a nifty feature that let you find out some information (or _metadata_) about variables and constants. Hold down the <kbd>Option</kbd> key and hover your cursor over the `thirdPlanet` in your playground file. It will be highlighted and underlined in blue. Click once on it, and popup will appear:
 
-![It's a string!](.images/type-tooltip.png)
+![It's a string!](http://i.imgur.com/fBWZArB.png)
 
 Notice that the popup tells you that Swift considers `thirdPlanet` to be a `String`. You didn't even have to tell it that yourself—Swift figured it out on its own, because you assigned a string to `thirdPlanet` when you declared it.
 
@@ -85,7 +85,7 @@ let numberOfCountriesInAfrica = 54
 
 You've probably already guessed what type that is, even though you didn't explicitly declare it, but go ahead and <kbd>Option</kbd>-click on the name to see what Swift thinks it is, anyway. You should see this:
 
-![It's an Int!](.images/type-int.png)
+![It's an Int!](http://i.imgur.com/DGQlTd9.png)
 
 You've now learned about two different Swift types!
 
